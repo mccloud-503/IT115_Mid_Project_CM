@@ -1,1 +1,3 @@
-# IT115_Mid_Project
+# IT115_Mid_Project\n
+* Clarissa McCloud* 
+Second try :) 
