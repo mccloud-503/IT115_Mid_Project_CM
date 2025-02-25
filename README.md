@@ -1,3 +1,3 @@
 # IT115_Mid_Project\n
 * Clarissa McCloud* 
-Second try :) 
+<span style="color:blue">My preferred color is blue.</span>
