@@ -1,3 +1,3 @@
-# IT115_Mid_Project\n
-Clarissa McCloud* \n
-<span style="color:blue" </span>
+# IT115_Mid_Project
+*Clarissa McCloud* 
+Preferred color is BLACK
